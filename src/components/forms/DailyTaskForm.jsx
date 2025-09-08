@@ -67,7 +67,7 @@ export const DailyTaskForm = ({ onSuccess }) => {
           <option value="AceCam">AceCam</option>
           <option value="Bfile">Bfile</option>
           <option value="Box Tracking">Box Tracking</option>
-          <option value="Box Tracking">Others</option>
+          <option value="Others">Others</option>
         </select>
       </div>
 
