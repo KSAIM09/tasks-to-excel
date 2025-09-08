@@ -282,6 +282,7 @@ export const TaskList = () => {
                   <option value="AceCam">AceCam</option>
                   <option value="Bfile">Bfile</option>
                   <option value="Box Tracking">Box Tracking</option>
+                  <option value="Others">Others</option>
                 </select>
               </div>
               <div className="form-group">
